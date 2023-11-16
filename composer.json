@@ -1,0 +1,15 @@
+{
+  "name": "paquettecodes/settings-encoder",
+  "description": "Little simple class to compact values of switches in your configurations application into an integer instead of creating collumns in your DB.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "paquettecodes",
+      "email": "github@paquette.codes"
+    }
+  ],
+  "require": {
+    "php": ">=8.2"
+  }
+}
